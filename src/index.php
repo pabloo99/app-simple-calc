@@ -78,5 +78,11 @@ echo 'zero() = ' . SimpleCalc::zero();
 echo 'fOnePlusXOneMinusX($x) = (1 + x) / (1 - x) = '. SimpleCalc::fOnePlusXOneMinusX(3);
 ?>
 
+<hr />
+
+<?php
+echo 'NinePlusXMultiplyFive(1) = (9 + x) * 5 = '. SimpleCalc::NinePlusXMultiplyFive(1);
+?>
+
 </body>
 </html>
